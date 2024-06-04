@@ -4,3 +4,5 @@ Solutions to leetcode solutions sorted by algorithm name , authored by Daksesh.
 
 
 ## [Arrays and Hashing](https://github.com/invader43/blind75Solutions/tree/main/Arrays%20and%20Hashing)
+
+[217.Contains Duplicate](https://github.com/invader43/blind75Solutions/blob/main/Arrays%20and%20Hashing/217.py)
