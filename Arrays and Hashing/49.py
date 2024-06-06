@@ -22,8 +22,3 @@ class Solution:
             finallist.append([strs[i] for i in hashmap[key]])
 
         return finallist
-
-
-
-
-        
