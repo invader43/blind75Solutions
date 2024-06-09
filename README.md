@@ -13,5 +13,9 @@ Solutions to leetcode solutions and sorted by algorithm / data structures , auth
 [659.Encode and Decode Strings](https://github.com/invader43/blind75Solutions/blob/main/Arrays%20and%20Hashing/659.py)\
 [238.Product of Array Except Self](https://github.com/invader43/blind75Solutions/blob/main/Arrays%20and%20Hashing/238.py)\
 [36.Valid Sudoku](https://github.com/invader43/blind75Solutions/blob/main/Arrays%20and%20Hashing/36.py)\
+
+
+
+## [Two Pointers](https://github.com/invader43/blind75Solutions/tree/main/Two%20Pointers)
 [125.Valid Palindrome](https://github.com/invader43/blind75Solutions/blob/main/Arrays%20and%20Hashing/125.py)\
 [167. Two Sum II - Input Array Is Sorted](https://github.com/invader43/blind75Solutions/blob/main/Arrays%20and%20Hashing/167.py)
