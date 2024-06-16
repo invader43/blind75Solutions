@@ -18,5 +18,5 @@ Solutions to leetcode solutions and sorted by algorithm / data structures , auth
 
 ## [Two Pointers](https://github.com/invader43/blind75Solutions/tree/main/Two%20Pointers)
 [125.Valid Palindrome](https://github.com/invader43/blind75Solutions/blob/main/Two%20Pointers/125.py)\
-[167.Two Sum II - Input Array Is Sorted](https://github.com/invader43/blind75Solutions/blob/main/Two%20Pointers/167.py)
+[167.Two Sum II - Input Array Is Sorted](https://github.com/invader43/blind75Solutions/blob/main/Two%20Pointers/167.py)\
 [15.3Sum](https://github.com/invader43/blind75Solutions/blob/main/Two%20Pointers/15.py)
